@@ -13,10 +13,5 @@ ReactDOM.render(
     <Count/>,
     document.getElementById("count")
 )
-//
-// ReactDOM.render(
-//     <Field/>,
-//     document.getElementById("count"),
-//
-// )
+
 
